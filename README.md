@@ -432,11 +432,11 @@ Finanças pessoais são o conjunto de práticas relacionadas à gestão do dinhe
 
 # Glossário
 
-**Orçamento**: Planejamento das receitas e despesas
-**Investimento**: Aplicação de dinheiro visando retorno
-**Liquidez**: Facilidade de conversão em dinheiro
-**Dívida**: Valor devido a terceiros
-**Rendimento**: Ganho obtido com investimentos
+* **CET (Custo Efetivo Total)**: Taxa que representa o custo real de um empréstimo, incluindo juros, tarifas e impostos.
+* **Liquidez**: A facilidade e rapidez com que um investimento pode ser convertido de volta em dinheiro disponível.
+* **Orçamento Superavitário**: Quando o total das receitas é maior do que o total das despesas.
+* **Reserva de Emergência**: Fundo destinado a cobrir imprevistos, geralmente equivalente a 3 a 12 meses do custo de vida.
+* **Troca Intertemporal**: A decisão entre consumir no presente (pagando juros) ou postergar o consumo para o futuro (recebendo rendimentos)
 
 # Prompts Reutilizáveis:
 
