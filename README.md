@@ -19,7 +19,9 @@ Selecionei e fiz o upload de 4 fontes no Notebooklm:
 # Perguntas Estratégicas:
 
 * O que são finanças pessoais?
+
 Resposta:
+
 As finanças pessoais são o **conjunto de práticas e decisões que cada indivíduo toma em relação ao seu próprio dinheiro**, envolvendo especificamente as ações de ganhar, gastar, poupar e investir,. Na prática, esse conceito significa acompanhar detalhadamente o fluxo de recursos (o que entra e o que sai da conta), permitindo que a pessoa faça escolhas mais inteligentes e realize um **planejamento para o seu futuro financeiro**.
 
 Abaixo, detalho os pilares e objetivos das finanças pessoais conforme as fontes:
@@ -77,7 +79,9 @@ Fontes usadas:
 * 4 - caderno_cidadania_financeira.pdf (Propõe o método de quatro etapas: planejamento (estimar), registro (anotar), agrupamento (categorizar) e avaliação (refletir))
 
 * Quais são os principais erros financeiros?
+
 Resposta:
+
 Os principais erros financeiros envolvem falhas de planejamento, comportamentos impulsivos e a falta de conhecimento sobre o funcionamento do dinheiro. De acordo com as fontes, os deslizes mais frequentes são:
 
 *   **Não possuir uma reserva de emergência:** Este é considerado um dos erros mais graves, pois a falta de um fundo para imprevistos (como problemas de saúde ou perda de renda) obriga o indivíduo a recorrer a empréstimos e cartões de crédito, gerando endividamento.
@@ -98,7 +102,9 @@ Fontes usadas:
 * 4 - caderno_cidadania_financeira.pdf (Menciona a falta de educação financeira aliada ao crédito fácil e o hábito de avaliar apenas se a prestação "cabe no bolso", ignorando o custo real)
 
 * Como sair de dívidas?
+
 Resposta:
+
 Sair de uma situação de superendividamento exige atitudes planejadas que visam devolver a tranquilidade financeira e psicológica ao indivíduo. O primeiro passo fundamental é **tomar consciência da situação** e sentir a necessidade real de buscar uma saída.
 
 Aqui estão as etapas recomendadas pelas fontes para organizar e quitar seus débitos:
@@ -119,7 +125,9 @@ Fontes usadas:
 * 4 - caderno_cidadania_financeira.pdf (Detalha os passos de tomar consciência, mapear valores e juros, reduzir gastos (eliminando desperdícios e supérfluos) e gerar renda extra)
 
 * Qual a diferença entre poupar e investir?
+
 Resposta:
+
 Embora os termos sejam frequentemente usados como sinônimos, as fontes estabelecem uma distinção clara: **poupar** refere-se ao ato de acumular dinheiro, enquanto **investir** é o ato de aplicar esse dinheiro para que ele renda.
 
 Aqui estão as principais diferenças detalhadas:
@@ -137,7 +145,9 @@ Fontes usadas:
 * 4 - caderno_cidadania_financeira.pdf (Esclarece que poupança é a sobra financeira (Receita - Despesa), enquanto investimento é a aplicação dessa sobra sob o tripé: liquidez, risco e rentabilidade)
 
 * Quais hábitos ajudam na organização financeira?
+
 Resposta:
+
 A organização financeira não depende apenas de conhecimentos técnicos, mas principalmente da mudança de comportamentos e da adoção de **hábitos consistentes** no cotidiano.
 
 Os principais hábitos que ajudam a manter as finanças em ordem são:
@@ -163,7 +173,9 @@ Fontes usadas:
 # Teste de Prompts:
 
 1 - Crie um resumo estruturado das fontes sobre finanças pessoais, separando por temas principais
+
 Resposta:
+
 As finanças pessoais compreendem o conjunto de **decisões e práticas individuais sobre o gerenciamento do dinheiro**, englobando as ações de ganhar, gastar, poupar e investir. O objetivo central é proporcionar autonomia, equilíbrio e a realização de projetos de vida por meio de escolhas conscientes.
 
 Abaixo, os principais temas estruturados conforme as fontes:
@@ -204,7 +216,9 @@ Abaixo, os principais temas estruturados conforme as fontes:
 Análise: A resposta não é genérica, porém falta ser mais prática.
 
 2 - Explique os conceitos das fontes como se fosse para um iniciante, com exemplos práticos 
+
 Resposta:
+
 Cuidar do seu dinheiro pode parecer complicado, mas é uma habilidade que qualquer pessoa pode aprender com disciplina e as ferramentas certas. Para te ajudar a começar, aqui estão os principais conceitos das fontes explicados de forma simples e prática:
 
 ### 1. O que são Finanças Pessoais?
@@ -246,7 +260,9 @@ O crédito é dinheiro de terceiros (bancos) que permite antecipar um consumo, m
 Análise: Resposta didática para iniciantes, porém com menos densidade técnica.
 
 3 - Compare as abordagens das fontes sobre organização financeira e destaque diferenças
+
 Resposta:
+
 As fontes apresentam abordagens que se complementam, mas variam entre o foco **gerencial**, **comportamental**, **estratégico** e **educativo**. Enquanto todas concordam que a disciplina e o registro de gastos são fundamentais, elas se distinguem nas metodologias propostas e na visão sobre ferramentas específicas, como o cartão de crédito.
 
 Abaixo, comparo as abordagens e destaco as principais diferenças:
@@ -286,7 +302,9 @@ As fontes variam no "alcance" do que consideram organização financeira:
 Análise: Resposta mais técnica, menos "explicativo" e mais analítico.
 
 4 - Crie um plano simples de organização financeira baseado nas fontes
+
 Resposta:
+
 Este plano de organização financeira foi estruturado em cinco etapas progressivas para transformar sua relação com o dinheiro, saindo do descontrole para a construção de patrimônio.
 
 ### 1. Diagnóstico e Autoconhecimento
@@ -312,7 +330,9 @@ Com a reserva pronta e as dívidas pagas, comece a investir para realizar seus p
 Análise: Há aplicação prática, porém não há muito um tom mais direto ou realista.
 
 5 - Crie perguntas e respostas para revisão com base nas fontes
+
 Resposta:
+
 Para auxiliar na fixação dos conceitos apresentados nas fontes, aqui estão perguntas e respostas estruturadas para revisão:
 
 ### **Conceitos Fundamentais**
